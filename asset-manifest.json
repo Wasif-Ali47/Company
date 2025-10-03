@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Wasif-Ali47/Company.git/static/css/main.56fd77df.css",
-    "main.js": "/Wasif-Ali47/Company.git/static/js/main.7eb82faf.js",
-    "static/js/453.29ee9584.chunk.js": "/Wasif-Ali47/Company.git/static/js/453.29ee9584.chunk.js",
-    "index.html": "/Wasif-Ali47/Company.git/index.html",
-    "main.56fd77df.css.map": "/Wasif-Ali47/Company.git/static/css/main.56fd77df.css.map",
-    "main.7eb82faf.js.map": "/Wasif-Ali47/Company.git/static/js/main.7eb82faf.js.map",
-    "453.29ee9584.chunk.js.map": "/Wasif-Ali47/Company.git/static/js/453.29ee9584.chunk.js.map"
+    "main.css": "/Company/static/css/main.56fd77df.css",
+    "main.js": "/Company/static/js/main.bc3df721.js",
+    "static/js/453.29ee9584.chunk.js": "/Company/static/js/453.29ee9584.chunk.js",
+    "index.html": "/Company/index.html",
+    "main.56fd77df.css.map": "/Company/static/css/main.56fd77df.css.map",
+    "main.bc3df721.js.map": "/Company/static/js/main.bc3df721.js.map",
+    "453.29ee9584.chunk.js.map": "/Company/static/js/453.29ee9584.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56fd77df.css",
-    "static/js/main.7eb82faf.js"
+    "static/js/main.bc3df721.js"
   ]
 }
